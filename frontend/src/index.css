@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+.chat-box{
+  margin-top: 5px;
+  padding: 20px;
+  border-radius: 15px;
+  background: #eee;
+  color: #777;
+}
